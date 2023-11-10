@@ -6,8 +6,9 @@ Discord: varamyr1231
 ### Brief Self-Introduction
 *reach new heights in my development direction*
 ### Skills
-- [x] JS
-- [x] TS
+ JS - [x] 
+ TS - [x]
+
 ### Code Examples
 ```
 function multiply(a, b){
