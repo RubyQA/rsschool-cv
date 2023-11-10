@@ -6,8 +6,8 @@ Discord: varamyr1231
 ### Brief Self-Introduction
 *reach new heights in my development direction*
 ### Skills
- JS - [x] 
- TS - [x]
+ JS  - [x] \
+ TS  - [x]
 
 ### Code Examples
 ```
