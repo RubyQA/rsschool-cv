@@ -1,1 +1,1 @@
-https://rubyqa.github.io/cv
+https://rubyqa.github.io/test-cv/cv

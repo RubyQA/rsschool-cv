@@ -16,7 +16,7 @@ function multiply(a, b){
 }
 ```
 ### Work Experience
-https://github.com/RubyQA/rsschool-cv
+https://github.com/RubyQA/
 ### Education
 Courses : qa_guru
 ### English Language
