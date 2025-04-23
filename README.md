@@ -1,1 +1,1 @@
-https://rubyqa.github.io/rsschool-cv/cv
+https://rubyqa.github.io/cv
