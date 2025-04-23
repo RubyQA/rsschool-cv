@@ -1,1 +1,1 @@
-# rsschool-cv
+https://rubyqa.github.io/test-cv/cv
